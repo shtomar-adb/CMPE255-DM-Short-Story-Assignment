@@ -13,5 +13,5 @@ Contains introduction to Word Vectorization in Machine Learning, It's requiremen
 
 Medium article link: https://medium.com/@shivam.tomar_77464/text-mining-word-vectorization-techniques-6087ccfd40f0  
 Youtube video link:   
-Presentation link: [word_vectorization.ppt](word_vectorization.ppt)
+Slideshare Presentation link: 
 
