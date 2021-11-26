@@ -11,7 +11,7 @@ Text Mining: Word Vectorization Techniques
 ### Short Story Description
 Contains introduction to Word Vectorization in Machine Learning, It's requirement and explains briefly about various models available to convert words into numeric Vectors.
 
-Medium article link: https://medium.com/@shivam.tomar_77464/text-mining-word-vectorization-techniques-6087ccfd40f0
+Medium article link: https://medium.com/@shivam.tomar_77464/text-mining-word-vectorization-techniques-6087ccfd40f0  
 Youtube video link:   
 Presentation link: [word_vectorization.ppt](word_vectorization.ppt)
 
